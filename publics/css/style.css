@@ -83,6 +83,7 @@ header {
 }   
 
 
+
 .title {
     color: #fff;
     text-align: center;
@@ -147,7 +148,7 @@ header {
 }
 
 .watch{
-    background: url("/publics/images/hero/watch/watch_medium.jpg") center no-repeat;
+    background: url("/publics/images/hero/watch/watch_large.jpg") center no-repeat;
 }
 
 
@@ -183,7 +184,7 @@ header {
     }
 
     .watch{
-        background: url("/publics/images/hero/watch/logo_watch_medium.png");
+        background: url("/publics/images/hero/watch/watch_medium.jpg ");
     }
 
     .hero{
@@ -206,8 +207,8 @@ header {
     }
 
     .title-heading-watch {
-        height:6.2rem;
-        background: url("/publics/images/hero/watch/logo_watch_medium.png") center no-repeat;
+        height: 6.2rem;
+        background: url("/publics/images/hero/watch/watch_large.jpg") center no-repeat;
         background-size: auto 6.2rem;
     }
 }
@@ -375,7 +376,7 @@ header {
     }
 
     .watch{
-        background: url("/publics/images/hero/watch/logo_watch_small.png");
+        background: url("/publics/images/hero/watch/watch_small.jpg");
 
     }  
 
