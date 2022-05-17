@@ -60,25 +60,25 @@ header {
 .nav-link-apple {
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/publics/images/apple.svg") center no-repeat;
+    background: url(/publics/images/apple.svg) center no-repeat;
 }
 
 .nav-link-search {
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/publics/images/search.svg") center no-repeat;
+    background: url(/publics/images/search.svg) center no-repeat;
 }
 
 .nav-link-bag {
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/publics/images/bag.svg") center no-repeat;
+    background: url(/publics/images/bag.svg) center no-repeat;
 }
 
 /* iPhone 11 pro section*/
 
 .iphone-11-pro {
-    background: url("/publics/images/iphone_11_pro_large.jpg") center no-repeat;
+    background: url(/publics/images/iphone_11_pro_large.jpg) center no-repeat;
     margin-top: 4.4rem;
 }   
 
@@ -132,7 +132,7 @@ header {
 /* iPhone 11 section  */
 
 .iphone-11{
-    background-image: url("/publics/images/iphone_11_large.jpg");
+    background-image: url(/publics/images/iphone_11_large.jpg);
 }
 
 .title-dark {
