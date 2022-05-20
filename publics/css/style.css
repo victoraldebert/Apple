@@ -84,7 +84,7 @@ header {
 /* iPhone 11 pro section*/
 
 .iphone-11-pro {
-    background-image: url("./publics/images/iphone_11_pro_large.jpg");
+    background-image: url("../publics/images/iphone_11_pro_large.jpg");
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 4.4rem;
